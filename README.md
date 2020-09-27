@@ -10,6 +10,6 @@
    <li>Topic 2  </li>
        <ul>
      <li> Lecture 3. Introduction to Numerical Python (NumPy)</li>
-     <li><a href="https://github.com/svniko/python_en/blob/master/Lab_2_en.pdf">Lab 2. Basics of the NumPy library</a></li>
+     <li><a href="https://github.com/svniko/python_en/blob/master/Lab_2_en_.pdf">Lab 2. Basics of the NumPy library</a></li>
          </ul>
   </ul>
