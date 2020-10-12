@@ -12,5 +12,9 @@
      <li><a href= "https://github.com/svniko/python_en/blob/master/Lecture_3_.ipynb">Lecture 3. Introduction to Numerical Python (NumPy)</a></li>
      <li><a href="https://github.com/svniko/python_en/blob/master/Lab_2_en_.pdf">Lab 2. Basics of the NumPy library</a></li>
      <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_4.ipynb">Lecture 4. Advanced NumPy</a></li>
+      <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_4.ipynb">https://github.com/svniko/python_en/blob/master/Lecture%205.ipynb</a></li>
          </ul>
+  <li>Topic 3  </li>
+  <li><a href="https://github.com/svniko/python_en/blob/master/Lab_3_en.pdf">Lab 3. Optimization in Python</a></li>
+
   </ul>
