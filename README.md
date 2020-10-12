@@ -15,6 +15,7 @@
       <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_4.ipynb">https://github.com/svniko/python_en/blob/master/Lecture%205.ipynb</a></li>
          </ul>
   <li>Topic 3  </li>
+  <ul>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lab_3_en.pdf">Lab 3. Optimization in Python</a></li>
-
+  </ul>
   </ul>
