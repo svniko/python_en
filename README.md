@@ -26,7 +26,7 @@
  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_8_Git.ipynb">Lecture 8. Data Manipulation with Pandas. Part 2</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lecture%209_en.ipynb">Lecture 9. Handling Missing Data and Hierarchical Indexing</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lab_4_en.pdf">Lab 4. Using Pandas for Data Analysis</a></li>
-  
+ <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_10_.pdf">Lecture 10. Combining Datasets: Concat and Append</a></li>
   
   </ul>
 </ul>
