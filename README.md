@@ -27,6 +27,6 @@
   <li><a href="https://github.com/svniko/python_en/blob/master/Lecture%209_en.ipynb">Lecture 9. Handling Missing Data and Hierarchical Indexing</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lab_4_en.pdf">Lab 4. Using Pandas for Data Analysis</a></li>
  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_10_.ipynb">Lecture 10. Combining Datasets: Concat and Append</a></li>
-  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture%2011.ipynb">Lecture 11. Aggregation and Grouping</a></li>
+  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_11.ipynb">Lecture 11. Aggregation and Grouping</a></li>
   </ul>
 </ul>
