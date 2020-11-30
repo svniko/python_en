@@ -28,5 +28,7 @@
   <li><a href="https://github.com/svniko/python_en/blob/master/Lab_4_en.pdf">Lab 4. Using Pandas for Data Analysis</a></li>
  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_10_.ipynb">Lecture 10. Combining Datasets: Concat and Append</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_11.ipynb">Lecture 11. Aggregation and Grouping</a></li>
+  <li><a href="https://github.com/svniko/python_en/blob/master/Lab_5_en_edit.pdf">Lab 5. DataFrames Merging, Data Aggregation and Data Visualization</a></li>
+  <li><a href=https://github.com/svniko/python_en/blob/master/Lecture12.ipynb">Lecture 12. Aggregation and Grouping</a></li>
   </ul>
 </ul>
