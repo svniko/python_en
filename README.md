@@ -32,7 +32,8 @@
   
   </ul>
 <li>Topic 5  </li>
-  <li><a href=https://github.com/svniko/python_en/blob/master/Lecture12.ipynb">Lecture 12. Working with Text Data</a></li>
+<ul>
+  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture12.ipynb">Lecture 12. Working with Text Data</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lab_6_en.pdf">Lab 6. Working with Strings in Pandas</a></li>
   <ul>
 </ul>
