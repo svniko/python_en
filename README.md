@@ -29,6 +29,10 @@
  <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_10_.ipynb">Lecture 10. Combining Datasets: Concat and Append</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lecture_11.ipynb">Lecture 11. Aggregation and Grouping</a></li>
   <li><a href="https://github.com/svniko/python_en/blob/master/Lab_5_en_edit.pdf">Lab 5. DataFrames Merging, Data Aggregation and Data Visualization</a></li>
-  <li><a href=https://github.com/svniko/python_en/blob/master/Lecture12.ipynb">Lecture 12. Aggregation and Grouping</a></li>
+  
   </ul>
+<li>Topic 5  </li>
+  <li><a href=https://github.com/svniko/python_en/blob/master/Lecture12.ipynb">Lecture 12. Working with Text Data</a></li>
+  <li><a href="https://github.com/svniko/python_en/blob/master/Lab_6_en.pdf">Lab 6. Working with Strings in Pandas</a></li>
+  <ul>
 </ul>
